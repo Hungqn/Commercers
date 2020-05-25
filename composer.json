@@ -1,0 +1,14 @@
+{
+    "name": "php/js_samplecode",
+    "description": "Bai tap PHP",
+    "authors": [
+        {
+            "name": "HUNGNGUYEN",
+            "email": "khazjx123@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "monolog/monolog": "^2.1"
+    }
+}
